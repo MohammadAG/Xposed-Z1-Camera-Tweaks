@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Preference android:key="copyright_key" android:title="@string/app_name" android:summary="@string/copyright_summary"/><CheckBoxPreference android:summaryOff="@string/pref_disable_hw_burst_off" android:title="@string/pref_hw_burst_title" android:summaryOn="@string/pref_disable_hw_burst_on" android:key="pref_disable_hw_burst"/>
+    <CheckBoxPreference android:key="pref_disable_fastcapture_sound" android:title="@string/pref_disable_fast_capture_sound_title" android:summary="@string/pref_disable_fast_capture_sound_summary"/>
+    
+    <Preference android:key="donate_key" android:title="@string/donate_title" android:summary="@string/donate_summary"/>
+    
+
+</PreferenceScreen>

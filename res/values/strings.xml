@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Z1 Camera Tweaks</string>
+    <string name="pref_hw_burst_title">Disable HW key burst</string>
+    <string name="pref_disable_hw_burst_on">Taking burst photos will only be possible by holding the touch-based capture button</string>
+    <string name="pref_disable_hw_burst_off">Taking burst photos is possible by holding either the hardware or touch-based capture keys</string>
+    <string name="pref_disable_fast_capture_sound_title">Disable launch sound</string>
+    <string name="pref_disable_fast_capture_sound_summary">Disable the sound played when the camera is launched using the hardware key or the lockscreen widget</string>
+    <string name="copyright_summary">Copyright © 2013 – Mohammad Abu-Garbeyyeh\nTap here to open support thread</string>
+    <string name="donate_title">Donate</string>
+    <string name="donate_summary">Support development of this and more modules</string>
+
+</resources>
